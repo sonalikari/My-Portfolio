@@ -316,7 +316,6 @@ header .navbar ul li a:hover{
     flex-wrap: wrap;
     flex:1 1 48rem;
     padding:2rem 1rem;
-    padding-left: 6rem;
 }
 .projects .box h3{
     margin-top: 100px;
@@ -329,9 +328,6 @@ header .navbar ul li a:hover{
 
 .projects .box span{
     color:#eee;
-    padding:0 .5rem;
-    
-
 }
 
 .contact .row{
