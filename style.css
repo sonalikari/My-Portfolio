@@ -122,7 +122,9 @@ header .navbar ul{
     list-style: none;
     padding:1rem 3rem;
 }
-
+header .navbar ul li i{
+    padding-right: 1rem;
+}
 
 header .navbar ul li a{
     display: block;
