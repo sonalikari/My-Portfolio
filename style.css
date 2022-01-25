@@ -177,6 +177,7 @@ header .navbar ul li a:hover{
     font-size:2rem;
     color:#eee;
     padding: 1rem 0;
+    text-align: justify;
 }
 
 .about .row{
@@ -449,33 +450,30 @@ header .navbar ul li a:hover{
     .heading{
         margin:0 3rem;
     }
-
     .about .row .counter .box{
         width: 100%;
         border-radius: 25px;
     }
- 
     .education .box-container .box{
-        width:100%;
-    }
-
-    .skills .box-container .box{
         width:100%;
     }
     .projects .box-container .box{
         width:100%;
     }
-
     .contact .row form{
         margin:3rem 0;
     }
-
+ }
+@media (max-width:500px){
+    .skills .box-container .box{
+        width:100%;
+    }
     .skills .box-container .box img{
         width: 40vw;
-        margin-left: 10rem;
+        margin-left: 12rem;
     }
     .skills .box-container .box h1 {
         margin-right: auto;
       }
-
  }
+
